@@ -1,4 +1,4 @@
-#!/usr/bin/r
+#!/usr/bin/env r
 args <- commandArgs(trailingOnly = TRUE)
 
 # args <- c("~/.config/emacs/denote-edges.json",
